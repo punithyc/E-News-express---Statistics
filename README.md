@@ -5,4 +5,4 @@ This project focuses on the application of statistical methods and data analysis
 
 ## Key features 
 * *__Descriptive Statistics:__* Provides a summary of data characteristics, including measures of central tendency (mean, median, mode) and dispersion (variance, standard deviation).
-* *__Inferential Statistics:__* Includes hypothesis testing (e.g.,z-tests, t-tests, ANOVA,Chi square, One proportion z-test) to make inferences about the population from sample data.
+* *__Inferential Statistics:__* Includes hypothesis testing (e.g.,z-tests, t-tests for equality and no equality of variances, ANOVA,Chi square test for independence, One proportion z-test, Shapiro test, Levene test) to make inferences about the population from sample data.
