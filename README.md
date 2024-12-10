@@ -22,3 +22,13 @@ The data contains information regarding the interaction of users in both groups 
 * converted - Whether the user gets converted to a subscriber of the news portal or not
 * language_preferred - language chosen by the user to view the landing page
  
+## Conclusions:
+* Users in the treatment group spent more time on the page which indicates potential success for new design but the conversions are not that much high
+* The treatment group(new design) shows a stronger conversion pattern than the control(old design)
+* The average time spent is moderate which indiactes the room for improvement
+* The treatment group shows a slightly higher conversion rate tahn the control group
+## Recommendations
+* Identifying and reducing the problems in the treatment group to maximize the conversion rates which benefits the new design
+* Improving the page content to boost the engagement
+* Trying multiple layouts within the treatment group to find an optimal design
+* using insights from user behaviour by language and time on page to recommend the content
